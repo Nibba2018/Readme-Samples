@@ -7,6 +7,10 @@ Code and Document samples for writing a README file.
 Hello this is description.
 
 ---
-## License and Copyright
+## Contributors 
+
+- Nibba2018 <https://github.com/Nibba2018>
+---
+## License and Copyright 
 
 ©️ Nibba2018
