@@ -48,7 +48,7 @@ ___
 
 ~~This Text~~ is strikethrough.
 
-Escape special characters using \ \*\_ etc.
+Escape special characters using '\' \*\_ etc.
 
 ---
 
