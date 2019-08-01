@@ -5,19 +5,6 @@ Code and Document samples for writing a README file.
 
 ---
 
-**Version 1.0.0**
-
-
----
-## Contributors 
-
-- [Nibba2018](https://github.com/Nibba2018)
----
-
-## License and Copyright 
-
-©️ Nibba2018
-
 # Headings:
 ---
 
@@ -29,8 +16,6 @@ Code and Document samples for writing a README file.
 ##### Heading 6
 
 And so on...
-
----
 
 # Text Formatting:
 
@@ -48,7 +33,7 @@ ___
 
 ~~This Text~~ is strikethrough.
 
-Escape special characters using '\' \*\_ etc.
+Escape special characters using ' \ '  \*\_ etc.
 
 ---
 
@@ -66,19 +51,15 @@ Escape special characters using '\' \*\_ etc.
 
 ## Unordered Lists:
 
----
-
 * Item 1
 * Item 2
 * Item 3
     * Nested Item 1
     * Nested Item 2
 
----
 
 ## Ordered List:
 
----
 
 1. Item 1
 1. Item 2
@@ -123,5 +104,21 @@ Escape special characters using '\' \*\_ etc.
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
+---
+
+**Version 1.0.0**
+
+---
+
+## Contributors
+
+- [Nibba2018](https://github.com/Nibba2018)
+
+---
+
+## License and Copyright
+
+©️ Nibba2018
 
 ---
