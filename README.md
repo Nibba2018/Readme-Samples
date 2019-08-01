@@ -1,2 +1,5 @@
 # Readme-Samples
-Readme Sample code
+
+Code and Document samples for writing a README file.
+
+
